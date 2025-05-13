@@ -10,9 +10,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/prelude-so/go-sdk"
-	"github.com/prelude-so/go-sdk/internal"
-	"github.com/prelude-so/go-sdk/option"
+	"prelude-so/pietro909/preude-go-sdk"
+	"prelude-so/pietro909/preude-go-sdk/internal"
+	"prelude-so/pietro909/preude-go-sdk/option"
 )
 
 type closureTransport struct {

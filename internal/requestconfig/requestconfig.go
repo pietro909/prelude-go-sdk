@@ -18,11 +18,11 @@ import (
 	"strings"
 	"time"
 
-	"github.com/prelude-so/go-sdk/internal"
-	"github.com/prelude-so/go-sdk/internal/apierror"
-	"github.com/prelude-so/go-sdk/internal/apiform"
-	"github.com/prelude-so/go-sdk/internal/apiquery"
-	"github.com/prelude-so/go-sdk/internal/param"
+	"prelude-so/pietro909/preude-go-sdk/internal"
+	"prelude-so/pietro909/preude-go-sdk/internal/apierror"
+	"prelude-so/pietro909/preude-go-sdk/internal/apiform"
+	"prelude-so/pietro909/preude-go-sdk/internal/apiquery"
+	"prelude-so/pietro909/preude-go-sdk/internal/param"
 )
 
 func getDefaultHeaders() map[string]string {

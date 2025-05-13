@@ -6,10 +6,10 @@ import (
 	"context"
 	"net/http"
 
-	"github.com/prelude-so/go-sdk/internal/apijson"
-	"github.com/prelude-so/go-sdk/internal/param"
-	"github.com/prelude-so/go-sdk/internal/requestconfig"
-	"github.com/prelude-so/go-sdk/option"
+	"prelude-so/pietro909/preude-go-sdk/internal/apijson"
+	"prelude-so/pietro909/preude-go-sdk/internal/param"
+	"prelude-so/pietro909/preude-go-sdk/internal/requestconfig"
+	"prelude-so/pietro909/preude-go-sdk/option"
 )
 
 // WatchService contains methods and other services that help with interacting with

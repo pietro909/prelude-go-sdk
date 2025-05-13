@@ -9,7 +9,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/prelude-so/go-sdk/internal/param"
+	"prelude-so/pietro909/preude-go-sdk/internal/param"
 )
 
 var encoders sync.Map // map[reflect.Type]encoderFunc

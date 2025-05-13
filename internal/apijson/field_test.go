@@ -4,7 +4,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/prelude-so/go-sdk/internal/param"
+	"prelude-so/pietro909/preude-go-sdk/internal/param"
 )
 
 type Struct struct {

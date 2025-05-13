@@ -9,11 +9,11 @@ import (
 	"net/http"
 	"net/url"
 
-	"github.com/prelude-so/go-sdk/internal/apijson"
-	"github.com/prelude-so/go-sdk/internal/apiquery"
-	"github.com/prelude-so/go-sdk/internal/param"
-	"github.com/prelude-so/go-sdk/internal/requestconfig"
-	"github.com/prelude-so/go-sdk/option"
+	"prelude-so/pietro909/preude-go-sdk/internal/apijson"
+	"prelude-so/pietro909/preude-go-sdk/internal/apiquery"
+	"prelude-so/pietro909/preude-go-sdk/internal/param"
+	"prelude-so/pietro909/preude-go-sdk/internal/requestconfig"
+	"prelude-so/pietro909/preude-go-sdk/option"
 )
 
 // LookupService contains methods and other services that help with interacting

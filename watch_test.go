@@ -8,9 +8,9 @@ import (
 	"os"
 	"testing"
 
-	"github.com/prelude-so/go-sdk"
-	"github.com/prelude-so/go-sdk/internal/testutil"
-	"github.com/prelude-so/go-sdk/option"
+	"prelude-so/pietro909/preude-go-sdk"
+	"prelude-so/pietro909/preude-go-sdk/internal/testutil"
+	"prelude-so/pietro909/preude-go-sdk/option"
 )
 
 func TestWatchPredictWithOptionalParams(t *testing.T) {

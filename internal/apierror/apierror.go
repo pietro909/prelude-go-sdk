@@ -7,7 +7,7 @@ import (
 	"net/http"
 	"net/http/httputil"
 
-	"github.com/prelude-so/go-sdk/internal/apijson"
+	"prelude-so/pietro909/preude-go-sdk/internal/apijson"
 )
 
 // Error represents an error that originates from the API, i.e. when a request is
