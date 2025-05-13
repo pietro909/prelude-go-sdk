@@ -1,4 +1,4 @@
-module github.com/prelude-so/go-sdk
+module github.com/pietro909/prelude-go-sdk
 
 go 1.21
 
